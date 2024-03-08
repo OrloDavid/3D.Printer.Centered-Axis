@@ -27,11 +27,11 @@ This mod not only enhances resolution but also increases Z axis speed, making yo
 
 
 ### Centered-Z Mod: Rev.1
-### Reduce / Eliminate Z-wobble
-### Consistently Reliable Tram & Level
-### Z Speed up to 3x Faster
+- Reduce / Eliminate Z-wobble
+- Consistently Reliable Tram & Level
+- Z Speed up to 3x Faster
 
-### Benefits of the Mod
+#### Benefits of the Mod
 - Resolves common tramming/leveling issues.
 - Reduces Z Wobble / Z Banding.
 - Increases resolution without speed loss. (w/ Lead screw change)
@@ -39,7 +39,7 @@ This mod not only enhances resolution but also increases Z axis speed, making yo
 - Reduces the likelihood of issues.
 - Simple to perform and easy to reverse if not suitable.
 
-### Parts and Resources /Links Below
+#### Parts and Resources /Links Below
 - **Main Components**:
   1. Right Hand Extruder Mount
   2. Upper Lead Screw Mount
@@ -58,7 +58,7 @@ This mod not only enhances resolution but also increases Z axis speed, making yo
   - [Thingiverse Designs](https://www.thingiverse.com/a_makers_life/designs)
   - [Printables Profile](https://www.printables.com/@DavidmOrlo_1689053)
 
-### Firmware or Hardware Changes
+#### Firmware or Hardware Changes
 1. **Change Stepper Rotation Direction** (Choose one):
    - Marlin: Toggle True/False for Z Stepper in Config File.
    - Klipper: Add/remove '!' on the Z Stepper DIR line in Config File.
@@ -69,7 +69,7 @@ This mod not only enhances resolution but also increases Z axis speed, making yo
    - Marlin: `#define Z_AFTER_HOMING  35`
    - Klipper: `z_hop: 35` (Please verify this setting).
 
-### Visual Resources
+#### Visual Resources
 - [Centered-Z Photo Gallery](https://www.reddit.com/r/3Dprinting/comments/19266bk/cartesian_centered_z_mod_tramming_and_z_wobble)
 - [Short Video Clip](https://www.youtube.com/watch?v=bj_Ha_a9KHw)
 - [David Orlo's YouTube Channel](https://www.youtube.com/@DavidMiOo)
@@ -77,19 +77,19 @@ This mod not only enhances resolution but also increases Z axis speed, making yo
 
 
 
-# Centered-Z Mod: Rev.2
-# Great for Bowden Setups
-# 100% Eliminate Z-wobble (The Lead Screw Doesn't Spin)
-# Consistent  Tram & Level
-# Increased Z resolution
-# Further Increases to possible Z Speed up to 5x
+### Centered-Z Mod: Rev.2
+- Great for Bowden Setups
+- 100% Eliminate Z-wobble (The Lead Screw Doesn't Spin)
+- Consistent  Tram & Level
+- Increased Z resolution
+- Further Increases to possible Z Speed up to 5x
 
 - This is the second revision of the Centered-Z mod. 
 - The first version served as a proof of concept, offering an easy solution with minimal modifications required.
 
 ### Parts and Resources / Links
 
-#### Main Components:
+##### Main Components:
 1. Right Hand Extruder Mount (3D File below)
 2. Lower Lead Screw Mount
 3. Upper Stepper Motor Mount
@@ -126,9 +126,9 @@ These are designed to fit on 2020/2040 Aluminum and should clear most roller and
 
 
 
-# Centered-Z Mod: Rev.3
-# Ideal for Direct Drive Setup 
-# Beautifully Minimalistic Design Approach
+### Centered-Z Mod: Rev.3
+- Ideal for Direct Drive Setup 
+- Beautifully Minimalistic Design Approach
 
 - This is the version that was envisioned originally by its creator David Orlo
 - Absolute centered-design, this time taking things a step further and centering the X stepper and Y Stepper motors in addition to the Z stepper
