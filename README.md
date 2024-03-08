@@ -1,22 +1,23 @@
 # David Orlo Centered-Z Mod for Cartesian 3D Printers
-I've developed a modification for Cartesian 3D printers that significantly improves tramming/leveling and reduces Z wobble/banding or completely eliminates it with Rev.2 or Rev.3. 
+
+I've developed a modification for Cartesian 3D printers that significantly improves tramming/leveling and reduces or completely eliminates Z wobble/banding with Rev.2 or Rev.3.
 
 This mod not only enhances resolution but also increases Z axis speed, making your printer more reliable and efficient. It's straightforward to implement and reversible if needed.
 
-## TLDR
-#### Rev.1 
-- Good way to get started, minimal parts needed (printed parts, nuts and bolts)
-- Unless your Z Lead is bent to hell, it should resolve any and all Z Wobble / Banding issues you have
-- If you love Z-Hop then your in for a treat because your Z Speeds should at minimum double (Over Single Lead Setup
-- I have squared up my printer (Level / Tram) 1 time since performing this mod, and have moved it 3 times now
-- I haven't needed to re-mesh my bed other than for tempurature profiles after this Mod
+## TL;DR
+### Rev.1 
+- A great way to get started with minimal parts needed (printed parts, nuts, and bolts).
+- It should resolve any Z Wobble/Banding issues unless your Z Lead is severely bent.
+- Z Speeds can at least double, especially beneficial for Z-Hop enthusiasts.
+- Only squared up my printer once since the mod and have moved it three times without the need to re-mesh the bed, except for temperature profile adjustments.
 
-#### Rev.2
-- Takes things a step further by relocating the Z Stepper to the top of the printer, this not only removes the weight from the gantry but also changes the dynamics of the force used to move the gantry, and the auto-leveling / auto-balancing effect it has
-- Changes to a Non-Captive Z Stepper, the LEAD SCREW NO LONGER SPINS! (Watch the Videos)
-- The Stepper required is cheap, like $20, also a good time to change your Z Lead to a 1 or 2 start if your using a 4 start
-- Faster with a 2 start Lead then a nornal setup with a 4 start
-- Ability to use standard aluminum gantry plates for Stepper and Lead Screw Mounting, or print your own
+### Rev.2
+- Relocates the Z Stepper to the top of the printer, removing weight from the gantry and altering the dynamics of the force used to move it, contributing to auto-leveling/balancing.
+- Features a Non-Captive Z Stepper—meaning the LEAD SCREW DOES NOT SPIN. (Refer to the videos)
+- Uses an affordable Nema 17 stepper motor; also a good time to switch your Z Lead to a 1 or 2 start if you're using a 4 start.
+- Faster with a 2 start lead than a normal setup with a 4 start.
+- Standard aluminum gantry plates can be used for stepper and lead screw mounting, or you can print your own.
+
 
 #### Rev.3
 - This is what was originally planned as the end result with direct drive conversion in mind
@@ -70,6 +71,7 @@ This mod not only enhances resolution but also increases Z axis speed, making yo
    - Klipper: `z_hop: 35` (Please verify this setting).
 
 #### Visual Resources
+Get a closer look at the Rev.2 modifications with this picture gallery:
 - [Centered-Z Photo Gallery](https://www.reddit.com/r/3Dprinting/comments/19266bk/cartesian_centered_z_mod_tramming_and_z_wobble)
 - [Short Video Clip](https://www.youtube.com/watch?v=bj_Ha_a9KHw)
 - [David Orlo's YouTube Channel](https://www.youtube.com/@DavidMiOo)
@@ -121,9 +123,9 @@ These are designed to fit on 2020/2040 Aluminum and should clear most roller and
 - [Printables Profile](https://www.printables.com/@DavidmOrlo_1689053)
 
 ### Visual Resources
-- [Centered-Z Photo Gallery](https://www.reddit.com/r/3Dprinting/comments/19266bk/cartesian_centered_z_mod_tramming_and_z_wobble)
+Get a closer look at the Rev.2 modifications with this picture gallery:
+- [Centered-Z Mod Revision 2 Picture Gallery](https://www.reddit.com/user/Azyn_One/comments/197m5ni/picture_gallery_centeredz_mod_revision_2_for/)
 - [Short Video Clip](https://www.youtube.com/watch?v=QR7mz33CQAs)
-
 
 
 # Centered-Z Mod: Rev.3
