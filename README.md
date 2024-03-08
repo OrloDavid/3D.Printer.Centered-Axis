@@ -1,9 +1,9 @@
-
+# David Orlo Centered-Z Mod for Cartesian 3D Printers
 I've developed a modification for Cartesian 3D printers that significantly improves tramming/leveling and reduces Z wobble/banding or completely eliminates it with Rev.2 or Rev.3. 
-This mod 
-not only enhances resolution but also increases Z axis speed, making your printer more reliable and efficient. It's straightforward to implement and reversible if needed.
 
-### TLDR
+This mod not only enhances resolution but also increases Z axis speed, making your printer more reliable and efficient. It's straightforward to implement and reversible if needed.
+
+## TLDR
 ### Rev.1 
 - Good way to get started, minimal parts needed (printed parts, nuts and bolts)
 - Unless your Z Lead is bent to hell, it should resolve any and all Z Wobble / Banding issues you have
@@ -26,10 +26,10 @@ not only enhances resolution but also increases Z axis speed, making your printe
 
 
 
-# Centered-Z Mod: Rev.1
-# Reduce / Eliminate Z-wobble
-# Consistently Reliable Tram & Level
-# Z Speed up to 3x Faster
+### Centered-Z Mod: Rev.1
+### Reduce / Eliminate Z-wobble
+### Consistently Reliable Tram & Level
+### Z Speed up to 3x Faster
 
 ### Benefits of the Mod
 - Resolves common tramming/leveling issues.
