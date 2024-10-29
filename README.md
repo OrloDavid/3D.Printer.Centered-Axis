@@ -1,4 +1,4 @@
-# David Orlo Centered-Z Mod for Cartesian 3D Printers
+# David Orlo Centered-Axis Mod for Cartesian 3D Printers
 
 I've developed a modification for Cartesian 3D printers that significantly improves tramming/leveling and reduces or completely eliminates Z wobble/banding with Rev.2 or Rev.3.
 
